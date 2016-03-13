@@ -5,9 +5,9 @@ Jekyll Admin - Demo Application for GSoC
 
 #Screenshots
 
-Project List             |Create Project                     |Configuration               |
-:-----------------------:|:----------------------------------:---------------------------:|
-![](screenshots/list.png)|![](screenshots/create-project.png)|![](screenshots/config.png)
+| Project List             | Create Project                      | Configuration               |
+| ------------------------ | ----------------------------------- | --------------------------- |
+| ![](screenshots/list.png)| ![](screenshots/create-project.png) | ![](screenshots/config.png) |
 
 # Features
 * Create Jekyll Projects
