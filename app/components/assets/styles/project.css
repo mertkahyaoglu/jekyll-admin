@@ -1,0 +1,30 @@
+.wrapper {
+  height: 100vh
+}
+.container {
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.contentContainer {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.title {
+  padding: 20px 0;
+  border-bottom: 1px solid #555;
+}
+
+.formContainer {
+  display: flex;
+  margin: 20px 0;
+  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.formContainer div {
+  margin-bottom: 20px;
+  width: 100%;
+}

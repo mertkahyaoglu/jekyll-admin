@@ -1,0 +1,24 @@
+.container {
+  padding: 20px;
+}
+
+.title {
+  padding: 20px 0;
+  border-bottom: 1px solid #555;
+}
+
+.innercontainer {
+  display: flex;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.folder {
+  color: #fc0;
+  margin-left: 10px;
+}
+
+.projectname {
+  font-size: 18px;
+  margin-right: 10px;
+}

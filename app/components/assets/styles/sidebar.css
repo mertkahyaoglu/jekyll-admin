@@ -1,0 +1,25 @@
+.container {
+  float:left;
+  width: 100px;
+  height: 100vh;
+  background-color: #444;
+  padding: 20px;
+}
+
+.container h3 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #FFCC7D;
+}
+
+.sidebarItem {
+  font-size: 20px;
+  color: #ccc;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.sidebarItem:hover {
+  color: #f90;
+}

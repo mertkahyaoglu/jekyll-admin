@@ -1,0 +1,51 @@
+.container {
+  padding: 20px;
+}
+
+.container h2 {
+  padding: 20px 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #555;
+}
+
+.projectsContainer {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
+.projectsHeader {
+  text-transform: uppercase;
+  font-size: 18px;
+  padding: .5em .75em;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.9);
+  display: flex;
+  flex-wrap: wrap;
+  color: #888;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  background-color: #3a3a3a;
+  background-image: linear-gradient(to bottom, #3a3a3a 0%, #1e1e1e 100%);
+}
+
+.projectsHeader div{
+  width: 50%;
+}
+
+.projectBody a {
+  background-color: #616161;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 18px;
+  padding: 20px;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+}
+
+.projectBody a:hover {
+  background-color: #333;
+}
+
+.projectBody a div{
+  width: 50%;
+}
